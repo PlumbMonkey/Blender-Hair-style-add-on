@@ -1,0 +1,6 @@
+"""Constants shared across the addon."""
+
+SCALP_GROUP_NAME = "SCALP_MASK"
+HAIRLINE_GROUP_NAME = "HAIRLINE_MASK"
+MODIFIER_NAME = "PMK_HairGN"
+NODE_GROUP_NAME = "PMK_HairGeoNodes"

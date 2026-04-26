@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "procedural_scalp_hair"
+version = "2.1.0"
+name = "Procedural Scalp Hair Generator"
+tagline = "Detect scalp mask heuristically and generate procedural hair with Geometry Nodes"
+maintainer = "PMK Studio"
+type = "add-on"
+
+blender_version_min = "5.1.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+tags = ["Mesh", "Object"]
