@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "wisp"
+version = "0.4.0"
+name = "Wisp Hair Creator"
+tagline = "Simple, intuitive anime and realistic hair for any character"
+maintainer = "PMK Studio"
+type = "add-on"
+
+blender_version_min = "5.1.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+tags = ["Mesh", "Object"]

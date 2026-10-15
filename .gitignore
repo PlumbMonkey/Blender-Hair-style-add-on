@@ -4,3 +4,6 @@ __pycache__/
 *.zip
 .DS_Store
 Thumbs.db
+
+# Licensed test characters (Reallusion/VRoid) - never publish
+models/

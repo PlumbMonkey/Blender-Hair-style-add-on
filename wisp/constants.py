@@ -1,0 +1,18 @@
+"""Constants shared across Wisp."""
+
+SCALP_GROUP_NAME = "WISP_SCALP"
+HAIRLINE_GROUP_NAME = "WISP_HAIRLINE"
+
+# Scalp region vertex groups (Phase 1)
+REGION_GROUP_MAP = {
+    'BANGS': "WISP_REGION_BANGS",
+    'SIDE_L': "WISP_REGION_SIDE_L",
+    'SIDE_R': "WISP_REGION_SIDE_R",
+    'BACK': "WISP_REGION_BACK",
+    'CROWN': "WISP_REGION_CROWN",
+}
+
+MODIFIER_PREFIX = "Wisp_"
+NODE_GROUP_PREFIX = "WispNodes_"
+
+PANEL_CATEGORY = "Wisp"
